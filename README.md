@@ -11,7 +11,7 @@ To run this application, you will need:
 
 ## Getting Started
 
-To use this application, simply download the `Genie-chatbot.jar` file and double-click on it to execute it. The application's user interface will open, allowing you to chat with the chatbot.
+To use this application, simply download the `Genie-chatbot.jar` file from the latest releases and double-click on it to execute it. The application's user interface will open, allowing you to chat with the chatbot.
 
 ## Usage
 
