@@ -4,8 +4,13 @@ This is a Java-based chatbot application that utilizes OpenAI's Devinci 003 mode
 
 ## Application Screenshots
 
+### Image 1:
+
 ![Genie - SS1](https://github.com/codewithLimon/Genie-The-Chatbot/blob/main/Screenshot%202023-05-09%20042941.png?raw=true)
-[Genie - SS2](https://github.com/codewithLimon/Genie-The-Chatbot/blob/main/Screenshot%202023-05-09%20043558.png?raw=true)
+
+### Image 2:
+
+![Genie - SS2](https://github.com/codewithLimon/Genie-The-Chatbot/blob/main/Screenshot%202023-05-09%20043558.png?raw=true)
 
 
 ## Requirements
