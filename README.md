@@ -2,6 +2,11 @@
 
 This is a Java-based chatbot application that utilizes OpenAI's Devinci 003 model to generate responses. The application is packaged as a JAR file, which can be executed on any computer with a Java environment installed.
 
+## Application Screenshots
+
+![Genie](https://github.com/codewithLimon/Genie-The-Chatbot/blob/main/Screenshot%202023-05-09%20042941.png?raw=true)
+
+
 ## Requirements
 
 To run this application, you will need:
