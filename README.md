@@ -47,4 +47,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Acknowledgments
 
 This application was built using OpenAI's Devinci 003 model. Many thanks to the team at OpenAI for their hard work in developing this powerful language model.
-For more information, please contact the application developer [Kaium Al Limon](www.facebook.com/codewithlimon)
+For more information, please contact the application developer [Kaium Al Limon](https://www.facebook.com/codewithlimon/)
+
